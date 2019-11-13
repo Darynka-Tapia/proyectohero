@@ -1,0 +1,20 @@
+.navMenu{
+	background: #010a43;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	color: #fff;
+}
+.contenido	{
+
+}
+
+.selecionado{
+	border: 2px solid #fff;
+	background: #ff3f98;
+	color: #fff;
+
+}
+
+.items:hover{
+		background: #f3d3d3;
+}
